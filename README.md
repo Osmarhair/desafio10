@@ -1,2 +1,2 @@
-# desafio-10
- Desafio criado para o curso em vídeo 
+# desafio10
+ Desafia android para o curso em vídeo
